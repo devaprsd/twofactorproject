@@ -1,0 +1,20 @@
+-->first 
+abstract 
+-->second
+introduction	
+-->third
+Literature Survey
+mini project ( feedback like survey )
+implement chey use cheyyunne topic	
+-->Problem Definition 
+problem defined ayittolla karyam	
+-->Existing System
+eppo use cheyiunne technology
+-->Disadvantages in current techonology
+etha
+-->proposed System 
+nammal suggest cheyunne system 
+--> Advantages
+use of our system over exsisting
+-->Conclusion 
+
